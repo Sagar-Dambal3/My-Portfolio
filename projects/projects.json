@@ -1,7 +1,7 @@
 [{
     "name": "My Portfolio",
     "desc": "Build my portfolio using HTML5, CSS3, JavaScript and JQuery.",
-    "image": "PortfolioFrontImage.JPG",
+    "image": "notystackandroid",
     "category": "HTML5, CSS3, JavaScript",
     "links": {
         "view": "https://sagardambal.netlify.app/",
